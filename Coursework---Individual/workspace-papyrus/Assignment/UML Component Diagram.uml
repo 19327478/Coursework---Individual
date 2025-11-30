@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_7LiJAMy8EfCU5rVdhKkm0A" name="model">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_7MOFgMy8EfCU5rVdhKkm0A">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="_HaARAMy9EfCU5rVdhKkm0A" name="USU Student App">
+    <packagedElement xmi:type="uml:Component" xmi:id="_AsxukMy-EfCU5rVdhKkm0A" name="Student UI Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_SbsnYMy-EfCU5rVdhKkm0A" name="Authentication Client"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_WehjoMy-EfCU5rVdhKkm0A" name="Payment UI Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_cMfzEMy-EfCU5rVdhKkm0A" name="Society Search Engine"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_xO_8gMy-EfCU5rVdhKkm0A" name="Event UI Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_zX7-8My-EfCU5rVdhKkm0A" name="Communication and Notificationn Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_lcwjkM4pEfCsp-LC2TMbGA" name="Society Management Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="_zDZ_cM4pEfCsp-LC2TMbGA" name="New Society Request Module"/>
+    <packagedElement xmi:type="uml:Component" xmi:id="__gw4AM4pEfCsp-LC2TMbGA" name="Registration Module"/>
+  </packagedElement>
+</uml:Model>

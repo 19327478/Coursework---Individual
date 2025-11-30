@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_EyElcMy9EfCU5rVdhKkm0A" type="PapyrusUMLComponentDiagram" name="NewComponentDiagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_HaPhkMy9EfCU5rVdhKkm0A" type="Component_PackagedElementShape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_HaW2UMy9EfCU5rVdhKkm0A" type="Component_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_HaW2Ucy9EfCU5rVdhKkm0A" type="Component_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_HaW2Usy9EfCU5rVdhKkm0A" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_HaYEcMy9EfCU5rVdhKkm0A" type="Component_StructureCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_AszjwMy-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Aszjwsy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Aszjw8y-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_AszjxMy-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_Aszjxcy-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_Aszjxsy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aszjx8y-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_AsxukMy-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Aszjwcy-EfCU5rVdhKkm0A" x="34" y="49" width="181" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_SbvDoMy-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_SbvqsMy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Sbvqscy-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Sbvqssy-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_Sbvqs8y-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_SbvqtMy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Sbvqtcy-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_SbsnYMy-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SbvDocy-EfCU5rVdhKkm0A" x="34" y="249" width="201" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_WelOAMy-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Wel1EMy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_Wel1Ecy-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Wel1Esy-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_Wel1E8y-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_Wel1FMy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Wel1Fcy-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_WehjoMy-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WelOAcy-EfCU5rVdhKkm0A" x="454" y="249" width="181" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_cMkrkMy-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_cMlSoMy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_cMlSocy-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_cMlSosy-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_cMlSo8y-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_cMlSpMy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cMlSpcy-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_cMfzEMy-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cMkrkcy-EfCU5rVdhKkm0A" x="434" y="149" width="201" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_xPDm4My-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_xPDm4sy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_xPDm48y-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_xPDm5My-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_xPDm5cy-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_xPDm5sy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xPDm58y-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_xO_8gMy-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xPDm4cy-EfCU5rVdhKkm0A" x="274" y="249" width="141" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zX_pUMy-EfCU5rVdhKkm0A" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_zX_pUsy-EfCU5rVdhKkm0A" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_zX_pU8y-EfCU5rVdhKkm0A" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_zX_pVMy-EfCU5rVdhKkm0A" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_zX_pVcy-EfCU5rVdhKkm0A" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_zX_pVsy-EfCU5rVdhKkm0A"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zX_pV8y-EfCU5rVdhKkm0A"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_zX7-8My-EfCU5rVdhKkm0A"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zX_pUcy-EfCU5rVdhKkm0A" x="314" y="49" width="321" height="58"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_leawcM4pEfCsp-LC2TMbGA" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_ledMsM4pEfCsp-LC2TMbGA" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_ledMsc4pEfCsp-LC2TMbGA" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_ledMss4pEfCsp-LC2TMbGA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_ledMs84pEfCsp-LC2TMbGA" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_ledMtM4pEfCsp-LC2TMbGA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ledMtc4pEfCsp-LC2TMbGA"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_lcwjkM4pEfCsp-LC2TMbGA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_leawcc4pEfCsp-LC2TMbGA" x="34" y="149" width="261" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zDdp0M4pEfCsp-LC2TMbGA" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="_zDdp0s4pEfCsp-LC2TMbGA" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="_zDdp084pEfCsp-LC2TMbGA" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_zDjwcM4pEfCsp-LC2TMbGA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_zDjwcc4pEfCsp-LC2TMbGA" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_zDjwcs4pEfCsp-LC2TMbGA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zDjwc84pEfCsp-LC2TMbGA"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_zDZ_cM4pEfCsp-LC2TMbGA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zDdp0c4pEfCsp-LC2TMbGA" x="34" y="349" width="241" height="61"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="__g2-oM4pEfCsp-LC2TMbGA" type="Component_PackagedElementShape_CCN">
+        <children xmi:type="notation:DecorationNode" xmi:id="__g3lsM4pEfCsp-LC2TMbGA" type="Component_NameLabel_CCN"/>
+        <children xmi:type="notation:DecorationNode" xmi:id="__g3lsc4pEfCsp-LC2TMbGA" type="Component_FloatingNameLabel_CCN">
+          <layoutConstraint xmi:type="notation:Location" xmi:id="__g3lss4pEfCsp-LC2TMbGA" y="15"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="__g3ls84pEfCsp-LC2TMbGA" type="Component_StructureCompartment_CCN">
+          <styles xmi:type="notation:TitleStyle" xmi:id="__g3ltM4pEfCsp-LC2TMbGA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__g3ltc4pEfCsp-LC2TMbGA"/>
+        </children>
+        <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#__gw4AM4pEfCsp-LC2TMbGA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="__g2-oc4pEfCsp-LC2TMbGA" x="434" y="349" width="201" height="61"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_HaYEccy9EfCU5rVdhKkm0A"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HaYEcsy9EfCU5rVdhKkm0A"/>
+    </children>
+    <element xmi:type="uml:Component" href="UML%20Component%20Diagram.uml#_HaARAMy9EfCU5rVdhKkm0A"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HaPhkcy9EfCU5rVdhKkm0A" x="60" y="-20" width="681" height="501"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_EyElccy9EfCU5rVdhKkm0A" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_EyElcsy9EfCU5rVdhKkm0A"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_EyElc8y9EfCU5rVdhKkm0A" diagramKindId="org.eclipse.papyrus.uml.diagram.component.root.package">
+    <owner xmi:type="uml:Model" href="UML%20Component%20Diagram.uml#_7LiJAMy8EfCU5rVdhKkm0A"/>
+  </styles>
+  <element xmi:type="uml:Model" href="UML%20Component%20Diagram.uml#_7LiJAMy8EfCU5rVdhKkm0A"/>
+</notation:Diagram>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_2aU_4KeFEfCC7tHmrWSYTw" name="Assignment">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_2ez3QKeFEfCC7tHmrWSYTw">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="_TI81kKeIEfC5sNatEHiDig" name="USU Student App" useCase="_jy_xAKeIEfC5sNatEHiDig _voAQIKeIEfC5sNatEHiDig _DFI-QKeJEfC5sNatEHiDig _HJ7CUKeJEfC5sNatEHiDig _Wx2ZcKeJEfC5sNatEHiDig _YHBcoKeJEfC5sNatEHiDig _cAoygKeJEfC5sNatEHiDig _uJtJUKeMEfC5sNatEHiDig _4V5TsKeQEfC5sNatEHiDig _VqpnMKeREfC5sNatEHiDig _YSP7kKeREfC5sNatEHiDig _a4XpQKeREfC5sNatEHiDig _EPIWEKeSEfC5sNatEHiDig _LVsJEKeSEfC5sNatEHiDig _7R6G8KeSEfC5sNatEHiDig _HgOzEKeVEfC5sNatEHiDig _aQsZsKebEfC5sNatEHiDig _7bNd0KebEfC5sNatEHiDig">
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_jy_xAKeIEfC5sNatEHiDig" name="Registration" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_AobfsKeTEfC5sNatEHiDig" name="ExtensionPoint1"/>
+      <include xmi:type="uml:Include" xmi:id="_lC9GkKeUEfC5sNatEHiDig" addition="_EPIWEKeSEfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_voAQIKeIEfC5sNatEHiDig" name="UpdatePersonalData" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_SBa54KeVEfC5sNatEHiDig" extendedCase="_7bNd0KebEfC5sNatEHiDig" extensionLocation="_SBbg8KeVEfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_mhu5EKeREfC5sNatEHiDig" name="ExtensionPoint1"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_DFI-QKeJEfC5sNatEHiDig" name="SocietySubscriptions" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_N9ymAKeNEfC5sNatEHiDig" extendedCase="_HJ7CUKeJEfC5sNatEHiDig" extensionLocation="_N9zNEKeNEfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_m_L-MKeeEfC5sNatEHiDig" name="ExtensionPoint2"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_HJ7CUKeJEfC5sNatEHiDig" name="ManageSubscriptions" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_mhuSAKeREfC5sNatEHiDig" extendedCase="_voAQIKeIEfC5sNatEHiDig" extensionLocation="_mhu5EKeREfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_CBfzIKeNEfC5sNatEHiDig" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_N9zNEKeNEfC5sNatEHiDig" name="ExtensionPoint2"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_Wx2ZcKeJEfC5sNatEHiDig" name="CancelSubscription" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_CBfMEKeNEfC5sNatEHiDig" extendedCase="_HJ7CUKeJEfC5sNatEHiDig" extensionLocation="_CBfzIKeNEfC5sNatEHiDig"/>
+      <extend xmi:type="uml:Extend" xmi:id="_xzkjQKedEfC5sNatEHiDig" extendedCase="_aQsZsKebEfC5sNatEHiDig" extensionLocation="_xzlKUKedEfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_Ab3SEKeNEfC5sNatEHiDig" name="ExtensionPoint1"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_YHBcoKeJEfC5sNatEHiDig" name="CommunicateWithSociety" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_2EYN8KeZEfC5sNatEHiDig" extendedCase="_uJtJUKeMEfC5sNatEHiDig" extensionLocation="_2EY1AKeZEfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_cAoygKeJEfC5sNatEHiDig" name="ParticipateInEvent" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_SCAWcKeaEfC5sNatEHiDig" name="ExtensionPoint1"/>
+      <include xmi:type="uml:Include" xmi:id="_WDhrIKeaEfC5sNatEHiDig" addition="_YSP7kKeREfC5sNatEHiDig"/>
+      <include xmi:type="uml:Include" xmi:id="_dclmkKeeEfC5sNatEHiDig" addition="_VqpnMKeREfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_uJtJUKeMEfC5sNatEHiDig" name="JoinSociety" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_M0zA0KeREfC5sNatEHiDig" extendedCase="_4V5TsKeQEfC5sNatEHiDig" extensionLocation="_M0zn4KeREfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_48gkkKeMEfC5sNatEHiDig" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_8L7t8KeMEfC5sNatEHiDig" name="ExtensionPoint2"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_SwGecKeNEfC5sNatEHiDig" name="ExtensionPoint3"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_IOVzEKeREfC5sNatEHiDig" name="ExtensionPoint4"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_JziPQKeREfC5sNatEHiDig" name="ExtensionPoint5"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_LJFs8aeREfC5sNatEHiDig" name="ExtensionPoint6"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_2EY1AKeZEfC5sNatEHiDig" name="ExtensionPoint8"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_CX-REKebEfC5sNatEHiDig" name="ExtensionPoint9"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_x2_gIKecEfC5sNatEHiDig" name="ExtensionPoint10"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_4V5TsKeQEfC5sNatEHiDig" name="SearchSociety" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_M0zn4KeREfC5sNatEHiDig" name="ExtensionPoint1"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_VqpnMKeREfC5sNatEHiDig" name="ViewEventDetails" subject="_TI81kKeIEfC5sNatEHiDig">
+      <include xmi:type="uml:Include" xmi:id="_D7E4AKeaEfC5sNatEHiDig" addition="_YSP7kKeREfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_YSP7kKeREfC5sNatEHiDig" name="ViewEvent" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_wpa6wKeREfC5sNatEHiDig" extendedCase="_a4XpQKeREfC5sNatEHiDig" extensionLocation="_wpbh0KeREfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_a4XpQKeREfC5sNatEHiDig" name="SearchEvent" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_wpbh0KeREfC5sNatEHiDig" name="ExtensionPoint1"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_EPIWEKeSEfC5sNatEHiDig" name="ValidateRegistration" subject="_TI81kKeIEfC5sNatEHiDig"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_LVsJEKeSEfC5sNatEHiDig" name="MakePayment" subject="_TI81kKeIEfC5sNatEHiDig">
+      <include xmi:type="uml:Include" xmi:id="_QRqT0KeSEfC5sNatEHiDig" addition="_uJtJUKeMEfC5sNatEHiDig"/>
+      <include xmi:type="uml:Include" xmi:id="_ascbMKeTEfC5sNatEHiDig" addition="_cAoygKeJEfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_7R6G8KeSEfC5sNatEHiDig" name="InitiateNewSociety" subject="_TI81kKeIEfC5sNatEHiDig"/>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_HgOzEKeVEfC5sNatEHiDig" name="LeaveSociety" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_CX9C8KebEfC5sNatEHiDig" extendedCase="_uJtJUKeMEfC5sNatEHiDig" extensionLocation="_CX-REKebEfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_SBbg8KeVEfC5sNatEHiDig" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_-pohoKebEfC5sNatEHiDig" name="ExtensionPoint4"/>
+      <include xmi:type="uml:Include" xmi:id="_i9kR8KeVEfC5sNatEHiDig" addition="_Wx2ZcKeJEfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_aQsZsKebEfC5sNatEHiDig" name="SubscribeToSociety" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_m_LXIKeeEfC5sNatEHiDig" extendedCase="_DFI-QKeJEfC5sNatEHiDig" extensionLocation="_m_L-MKeeEfC5sNatEHiDig"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_xzlKUKedEfC5sNatEHiDig" name="ExtensionPoint2"/>
+      <include xmi:type="uml:Include" xmi:id="_2R8ogKecEfC5sNatEHiDig" addition="_uJtJUKeMEfC5sNatEHiDig"/>
+    </ownedUseCase>
+    <ownedUseCase xmi:type="uml:UseCase" xmi:id="_7bNd0KebEfC5sNatEHiDig" name="ManageSocieties" subject="_TI81kKeIEfC5sNatEHiDig">
+      <extend xmi:type="uml:Extend" xmi:id="_-pn6kKebEfC5sNatEHiDig" extendedCase="_HgOzEKeVEfC5sNatEHiDig" extensionLocation="_-pohoKebEfC5sNatEHiDig"/>
+    </ownedUseCase>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_ZsQKgKeIEfC5sNatEHiDig" name="Student"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_sxuwIKeUEfC5sNatEHiDig" name="USU Admin"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_7ISwkKeVEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_xOCxIKeZEfC5sNatEHiDig" name="Society Leader"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_zFSmoKeZEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_frg5EKeaEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_hwfokKeaEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_voxxkKebEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_w_tvUKebEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_yjLtMKebEfC5sNatEHiDig"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_E43ZIKeeEfC5sNatEHiDig"/>
+</uml:Model>
